@@ -1,6 +1,6 @@
 # -bigdata-kafka-java-apps
 
-## Follow the steps below for running the Custom Consumer and Producer
+## Steps that need to be followed  for running the Custom Consumer and Producer
 
 ### Start Zookeeper
 
@@ -21,5 +21,5 @@ java -cp target/kafkapart2-1.0-SNAPSHOT-jar-with-dependencies.jar com.mycompany.
 
 java -cp target/kafkapart2-1.0-SNAPSHOT-jar-with-dependencies.jar com.mycompany.kafkapart2.Producer test
 
-In the producer Terminal you will be prompted to enter the text that want to be encrypted. After you are done with entering the text you can find the encrypted text on the consumer terminal
+You will be prompted  in the producer trerminal to enter the text that want to be encrypted. Once you are  done with  entering the text you can be able to  find the encrypted text on the consumer terminal
 
